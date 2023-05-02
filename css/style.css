@@ -203,9 +203,6 @@ header .left-side i:nth-last-child(1)::after {
     position: relative;
     text-align: end;
 }
-.footer .container .other img {
-
-}
 .footer .container .other p {
     margin: 0;
     padding: 0;
